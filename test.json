@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "ab20212e-f24f-50c9-cbc8-44f4dc5e6020",
-      "thumbnail": "../../../assets/images/products/b-image-02.webp",
+      "thumbnail": "https://img.kwcdn.com/product/open/2023-02-27/1677465561445-eaf8f0d456ce45d8a0e6326e7147df7c-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
       "title": "트렌디한 큐빅 목걸이: 심플하면서도 우아한 디자인",
       "discountRate": "20%",
       "price": 5990,
@@ -13,10 +13,10 @@
       "details": {
         "provider": "Trendy Jewelry",
         "breadCrumb": ["Home", "Accessories", "큐빅 목걸이"],
-        "imgsF": "https://img.kwcdn.com/product/fancy/60aa468d-0db2-52b6-896b-e0f94797eg7e.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/fancy/71c3d5fc-eebf-4b9b-8d42-3e322f728a5b.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/open/2023-02-27/1677465565345-4e4655b8685b4d08819b8dd4707a371c-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/open/2023-02-27/1677465564583-2c1ea0292c244d089528eafe62452dc1-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
         "imgsT": "https://img.kwcdn.com/product/fancy/99a233cc-caa6-5a58-a25a-c5304042299e.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsFour": "https://img.kwcdn.com/product/fancy/63ab64ed-9794-5cfb-b527-4e4c2e9eee50.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsFour": "https://img.kwcdn.com/product/fancy/efdb29f8-5f8c-4c3b-9737-49f39394ffa8.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 450,
         "beforePrice": 7490,
         "deadlineTime": "2시간 뒤 마감",
