@@ -11,6 +11,7 @@
       "quantity": 15,
       "category": "Accessories",
       "details": {
+        "credit": 300,
         "provider": "Trendy Jewelry",
         "breadCrumb": ["Home", "Accessories", "큐빅 목걸이"],
         "imgsF": "https://img.kwcdn.com/product/open/2023-02-27/1677465565345-4e4655b8685b4d08819b8dd4707a371c-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
@@ -108,6 +109,7 @@
       "quantity": 100,
       "category": "Home Decor",
       "details": {
+        "credit": 50,
         "provider": "Elegant Homes",
         "breadCrumb": ["Home", "Home Decor", "모던 벽걸이 아트"],
         "imgsF": "https://img.kwcdn.com/product/fancy/e4121228-3e1f-47de-8bbe-d44ec87cc24f.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -205,6 +207,7 @@
       "quantity": 30,
       "category": "Appliances",
       "details": {
+        "credit": 1000,
         "provider": "SmartHome Co.",
         "breadCrumb": ["Home", "Appliances", "스마트 전기 주전자"],
         "imgsF": "https://img.kwcdn.com/product/fancy/e5e396a3-87b6-4129-b130-9122d4c343a4.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -302,6 +305,7 @@
       "quantity": 50,
       "category": "Toys",
       "details": {
+        "credit": 150,
         "provider": "Creative Kids",
         "breadCrumb": ["Home", "Toys", "어린이용 컬러 블록 세트"],
         "imgsF": "https://img.kwcdn.com/product/fancy/c23be6a1-e2dc-4c23-ae6d-0cd19823f13e.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -398,6 +402,7 @@
       "quantity": 40,
       "category": "Home Decor",
       "details": {
+        "credit": 4000,
         "provider": "Elegance Decor",
         "breadCrumb": ["Home", "Home Decor", "모던 미니멀리스트 벽 시계"],
         "imgsF": "https://img.kwcdn.com/product/fancy/c1682098-f8e1-4903-a5f5-2fd1e6c4b01c.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -495,6 +500,7 @@
       "quantity": 100,
       "category": "Accessories",
       "details": {
+        "credit": 2300,
         "provider": "Elegant Accessories",
         "breadCrumb": ["Home", "Accessories", "미니멀리스트 실버 귀걸이"],
         "imgsF": "https://img.kwcdn.com/product/fancy/a131abc4-cb2f-4b06-a355-86c030ae11ad.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -591,6 +597,7 @@
       "quantity": 500,
       "category": "Stationery",
       "details": {
+        "credit": 1800,
         "provider": "Office Supplies Co.",
         "breadCrumb": ["Home", "Stationery", "컬러풀 젤펜 세트"],
         "imgsF": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0b45713cd051bde81b5d434833f86f98.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -687,6 +694,7 @@
       "quantity": 200,
       "category": "Home Decor",
       "details": {
+        "credit": 2100,
         "provider": "Modern Living",
         "breadCrumb": ["Home", "Home Decor", "심플 모던 벽시계"],
         "imgsF": "https://img.kwcdn.com/product/fancy/1f4be9e0-7298-454f-8c12-1f5d7f72a707.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -783,6 +791,7 @@
       "quantity": 500,
       "category": "Lighting",
       "details": {
+        "credit": 1400,
         "provider": "Bright Lights",
         "breadCrumb": ["Home", "Lighting", "심플한 미니멀리스트 책상 조명"],
         "imgsF": "https://img.kwcdn.com/product/fancy/f049e51c-b36a-4289-b906-5e0b0f593149.jpg?imageView2/2/w/800/q/70/format/webp",
@@ -879,6 +888,7 @@
       "quantity": 300,
       "category": "Gadgets",
       "details": {
+        "credit": 1200,
         "provider": "Tech Solutions",
         "breadCrumb": ["Home", "Gadgets", "미니멀 디자인 핸드폰 거치대"],
         "imgsF": "https://img.kwcdn.com/product/fancy/b0a50334-ac65-4520-bc06-30dbe963852a.jpg?imageView2/2/w/800/q/70/format/webp",
