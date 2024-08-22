@@ -99,29 +99,29 @@
     },
     {
       "id": "dc30323f-g34g-61d0-eca9-55f5ed6f7031",
-      "thumbnail": "../../../assets/images/products/c-image-03.webp",
-      "title": "럭셔리 벽걸이 아트: 황금색 나뭇잎 패턴, 모던한 홈 데코",
-      "discountRate": 15,
-      "price": 79900,
-      "rating": 4.9,
-      "reviewCount": 350,
-      "quantity": 20,
+      "thumbnail": "https://img.kwcdn.com/product/fancy/e4121228-3e1f-47de-8bbe-d44ec87cc24f.jpg?imageView2/2/w/800/q/70/format/webp",
+      "title": "모던 벽걸이 아트: 황금색 나뭇잎 패턴, 심플한 홈 데코",
+      "discountRate": 35,
+      "price": 19900,
+      "rating": 4.8,
+      "reviewCount": 250,
+      "quantity": 100,
       "category": "Home Decor",
       "details": {
         "provider": "Elegant Homes",
-        "breadCrumb": ["Home", "Home Decor", "럭셔리 벽걸이 아트"],
-        "imgsF": "https://img.kwcdn.com/product/deco/fancy/14aa123d-1eb2-42b6-887b-d2d54745ef9d.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/deco/fancy/52bc1fcd-4bdf-4a4c-9f32-1d132f725b6a.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/deco/fancy/99b233dd-aae7-4a68-b15b-c6204042399e.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsFour": "https://img.kwcdn.com/product/deco/fancy/63ac74ed-9895-5dcb-c527-4f5c2e9fff50.jpg?imageView2/2/w/800/q/70/format/webp",
-        "bookmarkCount": 700,
-        "beforePrice": 94900,
-        "deadlineTime": "5시간 뒤 마감",
+        "breadCrumb": ["Home", "Home Decor", "모던 벽걸이 아트"],
+        "imgsF": "https://img.kwcdn.com/product/fancy/e4121228-3e1f-47de-8bbe-d44ec87cc24f.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/bde14a30-ab69-4866-8211-ed9c520d05ad.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancy/bda4c4ba-1c5b-4d19-a60d-50a3eee4efd7.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsFour": "https://img.kwcdn.com/product/fancy/c091938f-9334-40ff-a6a6-1d335a8687bf.jpg?imageView2/2/w/800/q/70/format/webp",
+        "bookmarkCount": 500,
+        "beforePrice": 29900,
+        "deadlineTime": "3시간 뒤 마감",
         "deliveryEstimate": "2024-09-01 ~ 2024-09-05",
-        "deliveryProbability": "90% 확률로 7일 이내 도착",
+        "deliveryProbability": "85% 확률로 7일 이내 도착",
         "deliveryCompany": "Korea ePost, DHL",
-        "deliveryCredit": 500,
-        "bookMarkCount": 620,
+        "deliveryCredit": 100,
+        "bookMarkCount": 400,
         "selectOptions": {
           "colors": {
             "label": "Color",
@@ -129,19 +129,19 @@
           },
           "sizes": {
             "label": "Size",
-            "options": ["100cm x 50cm", "150cm x 75cm"]
+            "options": ["80cm x 40cm", "100cm x 50cm"]
           },
           "selectQuantity": {
             "label": "Quantity",
-            "options": [1, 2, 3, 4, 5, 6]
+            "options": [1, 2, 3, 4, 5]
           }
         },
-        "contactCount": 12,
+        "contactCount": 7,
         "reviewStarOne": 1,
         "reviewStarTwo": 3,
-        "reviewStarThree": 7,
-        "reviewStarFour": 30,
-        "reviewStarFive": 309,
+        "reviewStarThree": 10,
+        "reviewStarFour": 20,
+        "reviewStarFive": 216,
         "reviews": {
           "users": [
             {
@@ -150,7 +150,7 @@
               "country": "KR",
               "starRating": 5,
               "reviewDate": "2024-02-11",
-              "comment": "거실에 걸었는데 분위기가 완전히 달라졌어요. 정말 고급스러워 보입니다."
+              "comment": "거실에 걸었는데 집안 분위기가 확 바뀌었어요. 고급스럽고 멋있습니다!"
             },
             {
               "profileImage": "https://example.com/user8.jpg",
@@ -158,7 +158,7 @@
               "country": "EN",
               "starRating": 4,
               "reviewDate": "2024-01-28",
-              "comment": "디자인이 아주 멋져요. 다만 배송이 조금 늦었습니다."
+              "comment": "디자인은 완벽합니다. 다만 배송이 약간 늦었습니다."
             },
             {
               "profileImage": "https://example.com/user9.jpg",
@@ -166,7 +166,7 @@
               "country": "CN",
               "starRating": 5,
               "reviewDate": "2024-01-05",
-              "comment": "방에 걸어두기 너무 좋은 사이즈고, 가격 대비 퀄리티도 훌륭합니다!"
+              "comment": "가격대비 퀄리티가 정말 좋아요. 만족합니다!"
             }
           ]
         },
@@ -188,7 +188,7 @@
               "userName": "사라 김",
               "writeDate": "2024년 07월 27일 09시 25분",
               "question": "배송 중 파손될 우려는 없나요?",
-              "answer": "튼튼한 포장으로 배송되므로 파손의 위험은 적습니다. 혹시 문제가 발생하면 고객 서비스로 연락해주세요."
+              "answer": "튼튼한 포장으로 배송되므로 파손의 위험은 적습니다. 문제가 생기면 고객 서비스로 연락해주세요."
             }
           ]
         }
@@ -196,7 +196,7 @@
     },
     {
       "id": "ef40434g-h56h-72e1-fda9-66g6hf7g8042",
-      "thumbnail": "../../../assets/images/products/d-image-04.webp",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/e5e396a3-87b6-4129-b130-9122d4c343a4.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "스마트 전기 주전자: 온도 조절 기능과 신속한 가열 시스템",
       "discountRate": 12,
       "price": 32000,
@@ -207,10 +207,10 @@
       "details": {
         "provider": "SmartHome Co.",
         "breadCrumb": ["Home", "Appliances", "스마트 전기 주전자"],
-        "imgsF": "https://img.kwcdn.com/product/appliances/fancy/14aa478e-1fb3-42b6-987c-e2e74797eg9f.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/appliances/fancy/52dc1fdc-5bef-4c4d-9f32-1f153f739b6b.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/appliances/fancy/99c233fe-bae8-4b68-b25c-c7204042499f.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsFour": "https://img.kwcdn.com/product/appliances/fancy/64bc64ed-9995-6ecb-c637-4g6c2e9ggf60.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/fancy/e5e396a3-87b6-4129-b130-9122d4c343a4.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/7d1fb2d8-c82f-473f-8fd1-8c616d3c7a3b.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancy/a996601a-b9ac-4830-a659-786999968182.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsFour": "https://img.kwcdn.com/product/fancy/06fa675c-8830-42b6-a359-82f0832305ce.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 530,
         "beforePrice": 36500,
         "deadlineTime": "6시간 뒤 마감",
@@ -293,7 +293,7 @@
     },
     {
       "id": "gf50545h-i67i-83f2-ghb0-77h7if8h9053",
-      "thumbnail": "../../../assets/images/products/e-image-05.webp",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/c23be6a1-e2dc-4c23-ae6d-0cd19823f13e.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "어린이용 컬러 블록 빌딩 세트, 창의력 발달 장난감",
       "discountRate": 20,
       "price": 12000,
@@ -304,9 +304,9 @@
       "details": {
         "provider": "Creative Kids",
         "breadCrumb": ["Home", "Toys", "어린이용 컬러 블록 세트"],
-        "imgsF": "https://img.kwcdn.com/product/toys/fancy/21ab567d-2fb4-43c6-987d-e3e84797eh9g.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/toys/fancy/53dc2fed-6beg-4d4e-af34-2f264f839c7b.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/toys/fancy/100d344g-cbf9-4f78-b36d-d8305050500g.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/fancy/c23be6a1-e2dc-4c23-ae6d-0cd19823f13e.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/c23be6a1-e2dc-4c23-ae6d-0cd19823f13e.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancy/7e67024f-25e8-4b53-83e3-67ec6d99fe88.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 400,
         "beforePrice": 15000,
         "deadlineTime": "3시간 뒤 마감",
@@ -389,7 +389,7 @@
     },
     {
       "id": "jk60656j-k78k-94g3-hib1-88i8jh9i1064",
-      "thumbnail": "../../../assets/images/products/f-image-06.webp",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/c1682098-f8e1-4903-a5f5-2fd1e6c4b01c.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "모던 미니멀리스트 벽 시계 - 거실과 사무실을 위한 심플한 디자인",
       "discountRate": 15,
       "price": 17500,
@@ -400,9 +400,9 @@
       "details": {
         "provider": "Elegance Decor",
         "breadCrumb": ["Home", "Home Decor", "모던 미니멀리스트 벽 시계"],
-        "imgsF": "https://img.kwcdn.com/product/homedecor/fancy/25bc678e-3fb5-45d7-988e-f4e85797fh9h.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/homedecor/fancy/64cd3gfe-7cgh-5d6f-af45-2g374g940c8c.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/homedecor/fancy/110f455h-dbh0-5h89-c47d-h9306070701h.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/fancy/c1682098-f8e1-4903-a5f5-2fd1e6c4b01c.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/81e109b2-0f61-4578-a6bd-996d610e3ee3.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancy/5c87eb61-fc5d-4649-b011-4d45da5bdc82.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 620,
         "beforePrice": 20500,
         "deadlineTime": "2시간 뒤 마감",
@@ -485,7 +485,7 @@
     },
     {
       "id": "kj80976p-l23n-90g4-lkj2-12k9fg1a1277",
-      "thumbnail": "../../../assets/images/products/g-image-09.webp",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/a131abc4-cb2f-4b06-a355-86c030ae11ad.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "미니멀리스트 실버 귀걸이 세트 - 여성용 심플 디자인",
       "discountRate": 25,
       "price": 4800,
@@ -496,9 +496,9 @@
       "details": {
         "provider": "Elegant Accessories",
         "breadCrumb": ["Home", "Accessories", "미니멀리스트 실버 귀걸이"],
-        "imgsF": "https://img.kwcdn.com/product/accessories/fancy/34cd678e-3fb5-45d7-998e-g3e85797fj8i.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/accessories/fancy/64df7hje-8cjk-6d7f-ak56-3g474h951b9d.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/accessories/fancy/110g566k-efh1-6i90-c58d-j0417181811j.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/fancy/a131abc4-cb2f-4b06-a355-86c030ae11ad.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancyalgo/toaster-api/toaster-processor-image-cm2in/0be89bd8-f4ee-11ee-9185-0a580a682aa7.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancyalgo/toaster-api/toaster-processor-image-cm2in/0c204d3a-f4ee-11ee-8f7e-0a580a68309d.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 180,
         "beforePrice": 6400,
         "deadlineTime": "1시간 뒤 마감",
@@ -581,7 +581,7 @@
     },
     {
       "id": "xy78901p-j67g-56h3-jkl2-21h8db7e9342",
-      "thumbnail": "../../../assets/images/products/h-image-10.webp",
+      "thumbnail": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0b45713cd051bde81b5d434833f86f98.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "컬러풀 젤펜 세트 - 12가지 색상, 학생 및 사무용 필기 도구",
       "discountRate": 30,
       "price": 2500,
@@ -592,9 +592,9 @@
       "details": {
         "provider": "Office Supplies Co.",
         "breadCrumb": ["Home", "Stationery", "컬러풀 젤펜 세트"],
-        "imgsF": "https://img.kwcdn.com/product/stationery/fancy/45acb4e8-2fb2-40d3-9d5b-f6e7a79012h8.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/stationery/fancy/58efcb7d-3dc5-43a4-bc76-9a780f90da21.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/stationery/fancy/77g9d5gh-56be-4923-bced-ae580c92d7r5.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0b45713cd051bde81b5d434833f86f98.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/41ec00f7acaa6fa279e3ef169783e4b0.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/ddc3b3d0b58e95a22edd52eedbebdd45.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 120,
         "beforePrice": 3500,
         "deadlineTime": "3시간 뒤 마감",
@@ -677,7 +677,7 @@
     },
     {
       "id": "de90216f-g68p-75h3-qmp3-45f8ab7e7251",
-      "thumbnail": "../../../assets/images/products/i-image-11.webp",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/1f4be9e0-7298-454f-8c12-1f5d7f72a707.jpg?imageView2/2/w/800/q/70/format/webp",
       "title": "심플 모던 벽시계 - 인테리어용 무소음 벽걸이 시계",
       "discountRate": 35,
       "price": 3200,
@@ -688,9 +688,9 @@
       "details": {
         "provider": "Modern Living",
         "breadCrumb": ["Home", "Home Decor", "심플 모던 벽시계"],
-        "imgsF": "https://img.kwcdn.com/product/decor/fancy/98abc5e4-3c45-4789-843d-b6a23c6cdef9.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/decor/fancy/01fbeb6d-7dcb-4126-b1c5-b736d5f24e41.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/decor/fancy/20gh4f8g-5c9b-4c3d-a7f9-e8321ab045db.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsF": "https://img.kwcdn.com/product/fancy/1f4be9e0-7298-454f-8c12-1f5d7f72a707.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/15d5a1a9-94fd-4468-90a3-b45f7a99ac9c.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancy/a19c7002-0367-41e7-952e-ba71dc95dbd7.jpg?imageView2/2/w/800/q/70/format/webp",
         "bookmarkCount": 135,
         "beforePrice": 4900,
         "deadlineTime": "2시간 뒤 마감",
@@ -772,96 +772,96 @@
       }
     },
     {
-      "id": "de90216f-g68p-75h3-qmp3-45f8ab7e7251",
-      "thumbnail": "../../../assets/images/products/i-image-11.webp",
-      "title": "심플 모던 벽시계 - 인테리어용 무소음 벽걸이 시계",
-      "discountRate": 35,
-      "price": 3200,
-      "rating": 4.4,
-      "reviewCount": 42,
-      "quantity": 200,
-      "category": "Home Decor",
+      "id": "ab41289f-h47l-53c0-tqp2-87f9fc1b3742",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/14fd3476-5397-4f32-829b-91dff53a7fd3.jpg?imageView2/2/w/800/q/70/format/webp",
+      "title": "심플한 미니멀리스트 책상 조명 - 휴대용 USB 충전식",
+      "discountRate": 40,
+      "price": 890,
+      "rating": 4.6,
+      "reviewCount": 120,
+      "quantity": 500,
+      "category": "Lighting",
       "details": {
-        "provider": "Modern Living",
-        "breadCrumb": ["Home", "Home Decor", "심플 모던 벽시계"],
-        "imgsF": "https://img.kwcdn.com/product/decor/fancy/98abc5e4-3c45-4789-843d-b6a23c6cdef9.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsS": "https://img.kwcdn.com/product/decor/fancy/01fbeb6d-7dcb-4126-b1c5-b736d5f24e41.jpg?imageView2/2/w/800/q/70/format/webp",
-        "imgsT": "https://img.kwcdn.com/product/decor/fancy/20gh4f8g-5c9b-4c3d-a7f9-e8321ab045db.jpg?imageView2/2/w/800/q/70/format/webp",
-        "bookmarkCount": 135,
-        "beforePrice": 4900,
-        "deadlineTime": "2시간 뒤 마감",
-        "deliveryEstimate": "2024-08-10 ~ 2024-08-14",
-        "deliveryProbability": "90% 확률로 7일 이내 도착",
-        "deliveryCompany": "KYUNDONG",
-        "deliveryCredit": 80,
-        "bookMarkCount": 110,
+        "provider": "Bright Lights",
+        "breadCrumb": ["Home", "Lighting", "심플한 미니멀리스트 책상 조명"],
+        "imgsF": "https://img.kwcdn.com/product/open/2024-08-16/1723773557204-c434a447c9f64b9db800c4905e59fe59-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/open/2024-08-16/1723773555578-8bb7dccd10b343f0a50311e998e90999-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/open/2024-08-16/1723773553071-14b5e96e5e624820b9b760eb45d2aa04-goods.jpeg?imageView2/2/w/800/q/70/format/webp",
+        "bookmarkCount": 220,
+        "beforePrice": 1490,
+        "deadlineTime": "1시간 뒤 마감",
+        "deliveryEstimate": "2024-08-12 ~ 2024-08-16",
+        "deliveryProbability": "85% 확률로 7일 이내 도착",
+        "deliveryCompany": "CJ, Hanjin",
+        "deliveryCredit": 50,
+        "bookMarkCount": 200,
         "selectOptions": {
           "colors": {
             "label": "Color",
-            "options": ["Black", "White", "Gray"]
+            "options": ["White", "Black", "Pink"]
           },
           "sizes": {
             "label": "Size",
-            "options": ["30cm", "40cm", "50cm"]
+            "options": ["Small", "Medium", "Large"]
           },
           "selectQuantity": {
             "label": "Quantity",
-            "options": [1, 2, 3, 4]
+            "options": [1, 2, 3, 4, 5]
           }
         },
-        "contactCount": 4,
-        "reviewStarOne": 1,
-        "reviewStarTwo": 2,
-        "reviewStarThree": 6,
-        "reviewStarFour": 20,
-        "reviewStarFive": 13,
+        "contactCount": 6,
+        "reviewStarOne": 3,
+        "reviewStarTwo": 5,
+        "reviewStarThree": 10,
+        "reviewStarFour": 30,
+        "reviewStarFive": 72,
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user25.jpg",
-              "profileName": "마리나 코",
+              "profileImage": "https://example.com/user28.jpg",
+              "profileName": "김수연",
               "country": "KR",
               "starRating": 5,
-              "reviewDate": "2024-07-30",
-              "comment": "소음이 없어서 너무 만족해요. 심플한 디자인이라 어디든 잘 어울려요."
+              "reviewDate": "2024-07-31",
+              "comment": "작고 가볍고 아주 유용합니다! 어디서나 사용하기 좋아요."
             },
             {
-              "profileImage": "https://example.com/user26.jpg",
-              "profileName": "존 밀러",
+              "profileImage": "https://example.com/user29.jpg",
+              "profileName": "올리버 브라운",
               "country": "EN",
               "starRating": 4,
-              "reviewDate": "2024-07-15",
-              "comment": "가격 대비 훌륭한 제품입니다. 크기도 적당하고 디자인도 세련되었어요."
+              "reviewDate": "2024-07-20",
+              "comment": "디자인은 좋은데 빛의 강도가 조금 더 강했으면 좋겠어요."
             },
             {
-              "profileImage": "https://example.com/user27.jpg",
-              "profileName": "사토 히로",
+              "profileImage": "https://example.com/user30.jpg",
+              "profileName": "사쿠라 타나카",
               "country": "JP",
-              "starRating": 4,
-              "reviewDate": "2024-07-05",
-              "comment": "시계가 깔끔하고 작동도 잘 됩니다. 배송도 빠릅니다."
+              "starRating": 5,
+              "reviewDate": "2024-07-15",
+              "comment": "휴대하기 편리하고, 디자인이 정말 깔끔해서 만족스럽습니다."
             }
           ]
         },
         "contacts": {
           "users": [
             {
-              "userName": "이수진",
-              "writeDate": "2024년 07월 25일 11시 10분",
-              "question": "배터리는 포함인가요?",
-              "answer": "아니요, 배터리는 별도로 구매하셔야 합니다."
+              "userName": "박성호",
+              "writeDate": "2024년 07월 25일 13시 12분",
+              "question": "충전은 얼마나 걸리나요?",
+              "answer": "완전 충전까지 약 2시간이 걸립니다."
             },
             {
-              "userName": "브랜든 리",
-              "writeDate": "2024년 07월 23일 14시 30분",
-              "question": "벽에 설치할 때 드릴이 필요한가요?",
-              "answer": "작은 못으로도 설치 가능하며 드릴은 필수는 아닙니다."
+              "userName": "엘리사 리",
+              "writeDate": "2024년 07월 23일 15시 45분",
+              "question": "LED 밝기 조절이 가능한가요?",
+              "answer": "네, 밝기는 3단계로 조절 가능합니다."
             },
             {
-              "userName": "제임스 박",
-              "writeDate": "2024년 07월 20일 08시 45분",
-              "question": "알람 기능이 있나요?",
-              "answer": "이 제품은 알람 기능이 없는 무소음 벽시계입니다."
+              "userName": "장민수",
+              "writeDate": "2024년 07월 20일 09시 10분",
+              "question": "USB 충전 케이블이 포함되어 있나요?",
+              "answer": "네, USB 충전 케이블이 포함되어 있습니다."
             }
           ]
         }
