@@ -866,6 +866,102 @@
           ]
         }
       }
+    },
+    {
+      "id": "gf5937kq-w74d-32p7-tkw3-97f8lr6f3740",
+      "thumbnail": "https://img.kwcdn.com/product/fancy/b0a50334-ac65-4520-bc06-30dbe963852a.jpg?imageView2/2/w/800/q/70/format/webp",
+      "title": "미니멀 디자인 핸드폰 거치대 - 각도 조절 가능",
+      "discountRate": 45,
+      "price": 1200,
+      "rating": 4.7,
+      "reviewCount": 78,
+      "quantity": 300,
+      "category": "Gadgets",
+      "details": {
+        "provider": "Tech Solutions",
+        "breadCrumb": ["Home", "Gadgets", "미니멀 디자인 핸드폰 거치대"],
+        "imgsF": "https://img.kwcdn.com/product/fancy/b0a50334-ac65-4520-bc06-30dbe963852a.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsS": "https://img.kwcdn.com/product/fancy/5dd0f993-0a16-4959-abff-bba7c00604e8.jpg?imageView2/2/w/800/q/70/format/webp",
+        "imgsT": "https://img.kwcdn.com/product/fancyalgo/toaster-api/toaster-processor-image-cm2in/4474d09c-b53e-11ee-afde-0a580a68309d.jpg?imageView2/2/w/800/q/70/format/webp",
+        "bookmarkCount": 180,
+        "beforePrice": 2200,
+        "deadlineTime": "1시간 30분 뒤 마감",
+        "deliveryEstimate": "2024-08-18 ~ 2024-08-22",
+        "deliveryProbability": "85% 확률로 7일 이내 도착",
+        "deliveryCompany": "Hanjin, KYUNDONG",
+        "deliveryCredit": 60,
+        "bookMarkCount": 150,
+        "selectOptions": {
+          "colors": {
+            "label": "Color",
+            "options": ["Silver", "Black", "Rose Gold"]
+          },
+          "sizes": {
+            "label": "Size",
+            "options": ["Small", "Medium", "Large"]
+          },
+          "selectQuantity": {
+            "label": "Quantity",
+            "options": [1, 2, 3, 4, 5]
+          }
+        },
+        "contactCount": 3,
+        "reviewStarOne": 0,
+        "reviewStarTwo": 2,
+        "reviewStarThree": 8,
+        "reviewStarFour": 20,
+        "reviewStarFive": 48,
+        "reviews": {
+          "users": [
+            {
+              "profileImage": "https://example.com/user31.jpg",
+              "profileName": "케빈 리",
+              "country": "KR",
+              "starRating": 5,
+              "reviewDate": "2024-07-29",
+              "comment": "휴대하기 편리하고 각도 조절이 쉬워서 정말 좋아요!"
+            },
+            {
+              "profileImage": "https://example.com/user32.jpg",
+              "profileName": "제이슨 라이트",
+              "country": "EN",
+              "starRating": 4,
+              "reviewDate": "2024-07-18",
+              "comment": "가격 대비 괜찮은 퀄리티. 조금 더 단단했으면 좋겠어요."
+            },
+            {
+              "profileImage": "https://example.com/user33.jpg",
+              "profileName": "리사 장",
+              "country": "CN",
+              "starRating": 5,
+              "reviewDate": "2024-07-10",
+              "comment": "디자인이 깔끔하고 책상 위에서 잘 어울립니다."
+            }
+          ]
+        },
+        "contacts": {
+          "users": [
+            {
+              "userName": "박지현",
+              "writeDate": "2024년 07월 24일 09시 12분",
+              "question": "아이패드도 거치 가능한가요?",
+              "answer": "네, 아이패드도 거치 가능하지만 안정성을 위해 중형 또는 대형 사이즈를 추천합니다."
+            },
+            {
+              "userName": "마이클 우",
+              "writeDate": "2024년 07월 22일 14시 32분",
+              "question": "각도는 몇 단계로 조절되나요?",
+              "answer": "총 3단계로 각도 조절이 가능합니다."
+            },
+            {
+              "userName": "이민재",
+              "writeDate": "2024년 07월 20일 08시 45분",
+              "question": "거치대가 미끄러지지 않나요?",
+              "answer": "바닥에 미끄럼 방지 패드가 부착되어 있어 안정적입니다."
+            }
+          ]
+        }
+      }
     }
   ]
 }
