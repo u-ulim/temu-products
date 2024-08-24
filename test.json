@@ -57,7 +57,7 @@
               "comment": "매우 고급스러운 느낌이에요! 빛에 반짝이는 큐빅이 매력적이에요."
             },
             {
-              "profileImage": "https://example.com/user5.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-04.jpg",
               "profileName": "마르쿠스 슈미트",
               "country": "DE",
               "starRating": 4,
@@ -65,7 +65,7 @@
               "comment": "전체적으로 만족스러워요. 조금 더 긴 줄이 있으면 좋겠어요."
             },
             {
-              "profileImage": "https://example.com/user6.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-09.jpg",
               "profileName": "이사벨라 올슨",
               "country": "SE",
               "starRating": 5,
@@ -147,7 +147,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user7.jpg",
+              "profileImage": "h/assets/images/product-detail/review-profile-15.jpg",
               "profileName": "안젤라 박",
               "country": "KR",
               "starRating": 5,
@@ -155,7 +155,7 @@
               "comment": "거실에 걸었는데 집안 분위기가 확 바뀌었어요. 고급스럽고 멋있습니다!"
             },
             {
-              "profileImage": "https://example.com/user8.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-07.jpg",
               "profileName": "에단 리",
               "country": "EN",
               "starRating": 4,
@@ -163,7 +163,7 @@
               "comment": "디자인은 완벽합니다. 다만 배송이 약간 늦었습니다."
             },
             {
-              "profileImage": "https://example.com/user9.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-11.jpg",
               "profileName": "이사벨라 왕",
               "country": "CN",
               "starRating": 5,
@@ -245,7 +245,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user10.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-02.jpg",
               "profileName": "마이클 존슨",
               "country": "EN",
               "starRating": 5,
@@ -253,7 +253,7 @@
               "comment": "매우 빠르게 물을 끓일 수 있고, 온도 조절 기능이 유용합니다. 주방에 필수품!"
             },
             {
-              "profileImage": "https://example.com/user11.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-03.jpg",
               "profileName": "장 리우",
               "country": "CN",
               "starRating": 4,
@@ -261,7 +261,7 @@
               "comment": "디자인이 모던하고 기능도 좋습니다. 다만 소음이 약간 있네요."
             },
             {
-              "profileImage": "https://example.com/user12.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-06.jpg",
               "profileName": "하루카 야마모토",
               "country": "JP",
               "starRating": 5,
@@ -342,7 +342,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user13.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-04.jpg",
               "profileName": "리사 박",
               "country": "KR",
               "starRating": 5,
@@ -350,7 +350,7 @@
               "comment": "아이들이 이 장난감을 너무 좋아해요! 창의력을 키워줄 수 있어서 매우 만족합니다."
             },
             {
-              "profileImage": "https://example.com/user14.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-13.jpg",
               "profileName": "존 밀러",
               "country": "EN",
               "starRating": 4,
@@ -358,7 +358,7 @@
               "comment": "색상도 다양하고 조립이 쉬워요. 단, 부품 몇 개가 부족했어요."
             },
             {
-              "profileImage": "https://example.com/user15.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-10.jpg",
               "profileName": "하나 야마시타",
               "country": "JP",
               "starRating": 5,
@@ -440,7 +440,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user16.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-05.jpg",
               "profileName": "안나 클라크",
               "country": "EN",
               "starRating": 5,
@@ -448,7 +448,7 @@
               "comment": "디자인이 깔끔하고 어느 공간에나 어울려요. 소음도 거의 없어서 좋아요."
             },
             {
-              "profileImage": "https://example.com/user17.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-09.jpg",
               "profileName": "류웨이",
               "country": "CN",
               "starRating": 4,
@@ -456,7 +456,7 @@
               "comment": "크기가 딱 좋고, 시계가 매우 정밀하게 작동합니다. 다만 배송이 조금 지연됐습니다."
             },
             {
-              "profileImage": "https://example.com/user18.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-13.jpg",
               "profileName": "사토 히로시",
               "country": "JP",
               "starRating": 5,
@@ -537,7 +537,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user19.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-08.jpg",
               "profileName": "소피아 리",
               "country": "KR",
               "starRating": 5,
@@ -545,7 +545,7 @@
               "comment": "심플하면서도 세련된 디자인이에요. 어느 옷에도 잘 어울려요!"
             },
             {
-              "profileImage": "https://example.com/user20.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-14.jpg",
               "profileName": "데이비드 리차드슨",
               "country": "EN",
               "starRating": 4,
@@ -553,7 +553,7 @@
               "comment": "가격 대비 괜찮은 품질입니다. 다만 조금 작아요."
             },
             {
-              "profileImage": "https://example.com/user21.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-15.jpg",
               "profileName": "첸 리",
               "country": "CN",
               "starRating": 5,
@@ -634,7 +634,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user22.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-01.jpg",
               "profileName": "올리버 킴",
               "country": "KR",
               "starRating": 5,
@@ -642,7 +642,7 @@
               "comment": "다양한 색깔이 있어서 필기할 때 정말 유용합니다!"
             },
             {
-              "profileImage": "https://example.com/user23.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-03.jpg",
               "profileName": "줄리아 마틴",
               "country": "EN",
               "starRating": 4,
@@ -650,7 +650,7 @@
               "comment": "가격 대비 품질이 괜찮고 필기도 부드럽게 됩니다. 추천!"
             },
             {
-              "profileImage": "https://example.com/user24.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-06.jpg",
               "profileName": "사이먼 리",
               "country": "CN",
               "starRating": 4,
@@ -731,7 +731,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user25.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-09.jpg",
               "profileName": "마리나 코",
               "country": "KR",
               "starRating": 5,
@@ -739,7 +739,7 @@
               "comment": "소음이 없어서 너무 만족해요. 심플한 디자인이라 어디든 잘 어울려요."
             },
             {
-              "profileImage": "https://example.com/user26.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-13.jpg",
               "profileName": "존 밀러",
               "country": "EN",
               "starRating": 4,
@@ -747,7 +747,7 @@
               "comment": "가격 대비 훌륭한 제품입니다. 크기도 적당하고 디자인도 세련되었어요."
             },
             {
-              "profileImage": "https://example.com/user27.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-01.jpg",
               "profileName": "사토 히로",
               "country": "JP",
               "starRating": 4,
@@ -828,7 +828,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user28.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-04.jpg",
               "profileName": "김수연",
               "country": "KR",
               "starRating": 5,
@@ -836,7 +836,7 @@
               "comment": "작고 가볍고 아주 유용합니다! 어디서나 사용하기 좋아요."
             },
             {
-              "profileImage": "https://example.com/user29.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-08.jpg",
               "profileName": "올리버 브라운",
               "country": "EN",
               "starRating": 4,
@@ -844,7 +844,7 @@
               "comment": "디자인은 좋은데 빛의 강도가 조금 더 강했으면 좋겠어요."
             },
             {
-              "profileImage": "https://example.com/user30.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-11.jpg",
               "profileName": "사쿠라 타나카",
               "country": "JP",
               "starRating": 5,
@@ -925,7 +925,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user31.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-03.jpg",
               "profileName": "케빈 리",
               "country": "KR",
               "starRating": 5,
@@ -933,7 +933,7 @@
               "comment": "휴대하기 편리하고 각도 조절이 쉬워서 정말 좋아요!"
             },
             {
-              "profileImage": "https://example.com/user32.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-02.jpg",
               "profileName": "제이슨 라이트",
               "country": "EN",
               "starRating": 4,
@@ -941,7 +941,7 @@
               "comment": "가격 대비 괜찮은 퀄리티. 조금 더 단단했으면 좋겠어요."
             },
             {
-              "profileImage": "https://example.com/user33.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-01.jpg",
               "profileName": "리사 장",
               "country": "CN",
               "starRating": 5,
