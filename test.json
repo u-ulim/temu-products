@@ -49,7 +49,7 @@
         "reviews": {
           "users": [
             {
-              "profileImage": "https://example.com/user4.jpg",
+              "profileImage": "/assets/images/product-detail/review-profile-01.jpg",
               "profileName": "엘리자베스 김",
               "country": "KR",
               "starRating": 5,
