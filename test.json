@@ -982,7 +982,7 @@
       "sub": {
         "subListF": {
           "subtitle": "상하의 세트",
-          "img": "https://image.msscdn.net/images/category_img/men/ITEM_017021_17164419894030_big.png"
+          "img": "/assets/images/header/category/dd.jpg"
         },
         "subListS": {
           "subtitle": "수영복/비치웨어",
@@ -3837,6 +3837,6 @@
           "img": "https://image.msscdn.net/images/category_img/men/ITEM_101006_17164419991765_big.png"
         }
       }
-    } 
+    }
   ]
 }
